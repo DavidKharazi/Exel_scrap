@@ -1,3 +1,4 @@
+# Извлечение данных из файлов Exel таблицы. Используемая библиотека - pip install pandas
 import pandas as pd
 import os
 
